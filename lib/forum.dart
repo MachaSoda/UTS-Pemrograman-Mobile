@@ -23,7 +23,7 @@ class _ForumState extends State<Forum> {
                   leading: Icon(Icons.person, size: 35,),
                   title: Padding(
                     padding: EdgeInsets.only(bottom: 6),
-                    child: Text('Jefry', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
+                    child: Text('Gilang', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
                   ),
                   minLeadingWidth: 12,
                 ),
@@ -73,7 +73,7 @@ class _ForumState extends State<Forum> {
                   leading: Icon(Icons.person, size: 35,),
                   title: Padding(
                     padding: EdgeInsets.only(bottom: 6),
-                    child: Text('Jefry', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
+                    child: Text('Irwan', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
                   ),
                   minLeadingWidth: 12,
                 ),
@@ -123,7 +123,7 @@ class _ForumState extends State<Forum> {
                   leading: Icon(Icons.person, size: 35,),
                   title: Padding(
                     padding: EdgeInsets.only(bottom: 6),
-                    child: Text('Jefry', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
+                    child: Text('Candra', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
                   ),
                   minLeadingWidth: 12,
                 ),
@@ -173,7 +173,7 @@ class _ForumState extends State<Forum> {
                   leading: Icon(Icons.person, size: 40,),
                   title: Padding(
                     padding: EdgeInsets.only(bottom: 6),
-                    child: Text('Jefry', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),),
+                    child: Text('Gamalie', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),),
                   ),
                   minLeadingWidth: 12,
                 ),

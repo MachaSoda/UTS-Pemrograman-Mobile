@@ -19,7 +19,7 @@ class _NotifState extends State<Notif> {
           Card(
             child: ListTile(
               leading: Icon(Icons.mark_unread_chat_alt, size: 32,),
-              title: Text("Jefry mengomentari postingan Anda"),
+              title: Text("Gilang mengomentari postingan Anda",),
               subtitle: Text('Lorem ipsum dolor sit amet...... \n2 jam lalu'),
             ),
           ),
